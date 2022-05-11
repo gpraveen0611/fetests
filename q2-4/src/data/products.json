@@ -1,0 +1,37 @@
+[
+    {
+        "product": "Water",
+        "type": "Drinks",
+        "quantity": 10,
+        "unitPrice": 1,
+        "totalPrice": 10
+    },
+    {
+        "product": "Chicken Wings",
+        "type": "Food",
+        "quantity": 3,
+        "unitPrice": 5,
+        "totalPrice": 15
+    },
+    {
+        "product": "Steak",
+        "type": "Food",
+        "quantity": 1,
+        "unitPrice": 9,
+        "totalPrice": 9
+    },
+    {
+        "product": "Coffee",
+        "type": "Drinks",
+        "quantity": 4,
+        "unitPrice": 2,
+        "totalPrice": 8
+    },
+    {
+        "product": "Wine Bottle",
+        "type": "Drinks",
+        "quantity": 1,
+        "unitPrice": 7,
+        "totalPrice": 7
+    }
+]
